@@ -1,0 +1,25 @@
+BTN: 
+CTN: 
+Acct Holder: 
+SW: 
+Verified: 
+
+AOHD: 
+Modem: 
+Lights: 
+Lights after PC: 
+Physicals: Original cable, no filter
+
+Issue: 
+Troubleshooting/Call Notes:
+
+Loopcare: 
+Radius: 
+
+Approved by: 
+Ticket Number	
+Commit Time
+Commit Date
+
+Offered Frontier Secure: Yes
+Survey: Yes
